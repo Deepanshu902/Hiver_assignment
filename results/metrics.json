@@ -1,0 +1,41 @@
+{
+  "agent": {
+    "accuracy": 0.8,
+    "f1": {
+      "general_inquiry": {
+        "precision": 1,
+        "recall": 0.5,
+        "f1": 0.6666666666666666
+      },
+      "shipping_status": {
+        "precision": 1,
+        "recall": 1,
+        "f1": 1
+      },
+      "technical_issue": {
+        "precision": 0.5,
+        "recall": 1,
+        "f1": 0.6666666666666666
+      }
+    },
+    "confusion": {
+      "general_inquiry": {
+        "general_inquiry": 1,
+        "technical_issue": 1
+      },
+      "shipping_status": {
+        "shipping_status": 2
+      },
+      "technical_issue": {
+        "technical_issue": 1
+      }
+    }
+  },
+  "trivial": {
+    "accuracy": 0.4
+  },
+  "simple": {
+    "accuracy": 0.4
+  },
+  "judgeAverages": 4.88
+}

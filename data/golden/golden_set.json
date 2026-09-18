@@ -1,0 +1,632 @@
+[
+  {
+    "id": "2847431",
+    "message": "Thanks! I found the giveaways, but is there away to narrow it down to the Amazon specific giveaways? (i.e., these ones https://t.co/WCM1DioORE)",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1265707",
+    "message": "I dint get any email , my question is whether you got my product or not, so that I can put a complaint in consumer court on courier company",
+    "trueIntent": "shipping_status",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1410531",
+    "message": "it’s annoying when a package is marked as delivered in the morning only to discover it’s still on the truck in the afternoon. 😡",
+    "trueIntent": "shipping_status",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "58172",
+    "message": "App store now appears to be working",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "612999",
+    "message": "This issue is still happening to me. I can’t see the i letter on text it just comes up as a ? In a box",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "864411",
+    "message": "my new iPhone 8 is really slow. Not loading anything that connects to internet (LTE)",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "689351",
+    "message": "If this is my biggest problem with @115858 I’m in good hands lol. Thanks for quick reply. I’ll update status after update installs.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1159130",
+    "message": "already did, they disappeared after i updated my phone to ios 11.0.3",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "712945",
+    "message": "help me, about my iPhone.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "766989",
+    "message": "I’m tired of sending you guys notes. Stop hiring rude drivers who purposefully take long routes so that the customer gets charged more",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1299059",
+    "message": "(2/2) There is supposed to be a blue bar at the bottom of the app to swipe, and there isn't. Yes, I've rated my last trip.",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2177604",
+    "message": "Yes, I just did. Please check.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "2730489",
+    "message": "what does it mean when it says \"\" a new user promotion is already applied to your account\"\"",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "2826814",
+    "message": "This still doesn't help me at all..",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1226644",
+    "message": "I’ve signed up for Ubereats about 3 weeks ago and haven’t got accepted t please help!!!",
+    "trueIntent": "account_access",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "337063",
+    "message": "Best in flight service period Christophe from CLT > BOS today. Thanks ✈️",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1715383",
+    "message": "- What if a passenger does not have the money for a bag fee when they arrive at the airport? How is that handled?",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "2078218",
+    "message": "lost my one suitcase on a nonstop flight - 3 flights in a row now with poor service",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2959649",
+    "message": "So that’s not very comforting. Since this is AA’s error, how do we get refunded so I can book a flight that has pilots?",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2131912",
+    "message": "flight 5747 DFW to ALBQ checked bag Soaked thru with water ? Fell in a puddle or no cover on bag truck?",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "338950",
+    "message": "then he wanted me to be grateful there was an empty seat next to us. With your customer service no wonder you can't sell out.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "153955",
+    "message": "This is why I’m a loyal customer.. situation remedied and all taken care of within 20 minutes of notifying me. #FlyDelta",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1217055",
+    "message": "too late now. Bad experience. I'm going back to @SouthwestAir where they value their customers",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "404730",
+    "message": "@211791 Good luck. It's been 4 weeks for us. They never return calls or emails!",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2514478",
+    "message": "would like to know why we’ve been sitting on the tarmac for 30 minutes with no update. Flight 978",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1064775",
+    "message": "I have seen this message from the link you gave me everytime I click it https://t.co/qDQNRQR7bW",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2410306",
+    "message": "i accidentally purchased FIFA 18 for PS3 i want to purchase for PS4 please help what i do",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "394196",
+    "message": "help I can't log onto my account anywhere besides my console 😭 support can't find my PSN ID",
+    "trueIntent": "account_access",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2484581",
+    "message": "u no the problem yesterday, it's worse now, every time I message anyone it comes up with error https://t.co/uSRTNzQ4BS",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1005932",
+    "message": "having problems with fifa 18 pro clubs can you help ?",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "713892",
+    "message": "I was logged out of PSN now it isn't letting me back in. I've restarted everything to no avail.",
+    "trueIntent": "account_access",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1072719",
+    "message": "No - nothing to do w/ crew. Served v nicely - not their fault. Quality diff b/w outbound & inbound food astonishing.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2430649",
+    "message": "\"\"one of the toilets is out of order so you should go before getting on the plane\"\" Beautiful. Only a 2 hour flight....",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2890947",
+    "message": "many thanks for helping me out so quickly",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "2194467",
+    "message": "Hi there, at hotel now and been told to call 1800airways. I don't seem to be able to get through using the hotel phone. Can someone call me to arrange rebooking?",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1814879",
+    "message": "Not really - they are in their 70s.. can I DM you a telephone for them?",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "2974623",
+    "message": "Thanks Neil, I sent you the requested information about an hour ago !",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1308786",
+    "message": "Really? Guess I need to start voting with my wallet. Good day, good luck.",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1695590",
+    "message": "@119514 according to @166805 patch 5 was handed over 4-5 days ago, what is going on here? PS-Players got it days ago...",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "338806",
+    "message": "when i reset my xbox it boots to black screen and stays there.",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "2197029",
+    "message": "why are Xbox One’s so bad at playing Blu-Rays?",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2114269",
+    "message": "The official Xbox site shows the update as available so I️ have to assume I️ have it",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "418317",
+    "message": "Got it figured out. Thanks guys! :-)",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1767679",
+    "message": "I️ need to change my account to the student plan but the website won’t stop loading",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2844604",
+    "message": "this is the SECOND time in two weeks all my music has disappeared wtf https://t.co/uigcUO19wf",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2319370",
+    "message": "Damn shame... that feels like a missed opportunity for a great #featurerequest !",
+    "trueIntent": "feature_request",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "788969",
+    "message": "be honest you have no intention of adding this feature, requested 6 years ago. and no update from you do spotify really care?",
+    "trueIntent": "feature_request",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1897838",
+    "message": "I don’t get it, but Usher is available here in PH. Only Separated is not available 😞",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1815080",
+    "message": "thank God you got TBS to work on Live. Was over here listening to AM radio. Considered taking a covered wagon to work",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1237924",
+    "message": "If I am streaming from my phone to a Chromecast, that is one screen, right? And I accidentally left my Roku on. 🙁",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1009692",
+    "message": "I do not have an account with u,I’ve never heard of u,so y have I had email regarding renewal of subscription??? #scam",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "689131",
+    "message": "How long before season 3 will be in ur rights hulu",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1411310",
+    "message": "I cannot signup for the hulu live TV. I get to the zip code screen, but cannot proceed.",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1076836",
+    "message": "hey, just upgraded my package to Hulu Live Beta and now my streaming catalog buffers forever. Any support for that?",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1747080",
+    "message": "So I can endure another 45 min runaround with a customer rep who says \"\"nothing I can do\"\". . At least you train them to say \"\"I'm sorry sir\"\"",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2632437",
+    "message": "@115990 I was on the phone for over 2 hours trying to get this resolved. How many people must I talk to before you actually care?",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "354220",
+    "message": "How do I go about canceling service with @115725? Tired of doing this every month. @115900 is offering gig speeds for $10 more.",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1681336",
+    "message": "Nope, no red light, its normal like any other day, and oddly the only things that are able to connect is our T.V's and our computers.",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "2899191",
+    "message": "Well one of your customer service representatives knows a way around it. They gave me that information yesterday. #TerribleCustomerService",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "555552",
+    "message": "Hi, don’t your stores sell Banks Barbados beer anymore? Thank you :-)",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "2169512",
+    "message": "online it said frijj will be coming of offer on the 14th November but it came off early?",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "115363",
+    "message": "Hi I have just received the refund and only refunded one item out of 3",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2877458",
+    "message": "just found a hair inside one of your baguettes....",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1631218",
+    "message": "thank you for the free ESPN live tv service on our flight from Dallas to DC! Got to watch entire Palmeto Bowl and Clemson win! Service was awesome👍🏼 #CLEMvsSCAR",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "469113",
+    "message": "stop being weird and let me purchase my round trip for next month. I don’t wanna see another error >:(",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "866579",
+    "message": "- another time wasting experience. #sfo flight canceled no notification, no rebooking. Get to add 4 hours to my trip.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2254800",
+    "message": "Thanks! There are others on this flight behind me in sec line.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1374310",
+    "message": "First flight as A List Preferred and the WiFi didn’t work. Super bummer. (WN 4423, SMF-LAX)",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1445894",
+    "message": "So the fact that this has not been offered says to me that SW is okay with losing my business and that of my family/friends.",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1472314",
+    "message": "@225425 The game is good, the servers however are HORSE SHIT. Say it with me kids, H-O-R-S-E S-H-I-T ESO had a better launch than this. 💩💩💩💩💩💩",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2830528",
+    "message": "Nice to know that you cared more about those COD tokens in the game than actually fixing the game, thanks!",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "108992",
+    "message": "It keeps getting stuck when i'm loading it on",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "2640626",
+    "message": "could you get back to me about the tweet I sent you on the 6th about missing content?",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "632917",
+    "message": "@270019 Or don’t because you won’t hear back lol",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "805068",
+    "message": "@115913 Thank You Holly! I have an iPhone that I am bringing to TMobile from @ATT",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1763390",
+    "message": "Tried to DM as requested. Received canned response about your site instead. Very disappointing.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "648916",
+    "message": "@115913 This is not accurate. You cannot do a BOGO at tmobile unless you add a line. I dont need a line. I dont need a new tablet either. I just need to upgrade my old phone.",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2958524",
+    "message": "@648909 It is FREE? Or another means of nickle and diming customers?",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "170160",
+    "message": "I got charged 43.95 from a T-Mobile store from sales rep #1983505 in Detroit Lakes Minnesota and 0 credit on my #account.😡",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "621363",
+    "message": "The train is running bur not stopping.",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1696359",
+    "message": "usual shocking customer service from Chippenham ticket office. No explanation, no warning. Can you assure me will be open 6am Tues? https://t.co/2KzVwt8FH4",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1005400",
+    "message": "please explain the staff shortages which cancelled the train between Southampton and Bristol this afternoon? #Annoyed #angry #GWR",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1981897",
+    "message": "stuck at bath due to signalling probs at Westbury. Will u be organising bus/taxi?",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "104298",
+    "message": "What unit is expected to be forming the 1059 Great Malvern to London Paddington tomorrow? Many thanks!",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "664175",
+    "message": "Literally every time I walk into a NYC Chipotle... which is like every day. Yuck! No more antibiotics in my chorizo please! https://t.co/k45oV3Bu3R",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2232890",
+    "message": "Becky, it’s awful. There’s a grease ring and everything. We are throwing it out 😭😭😭 https://t.co/S76S6q4hOW",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2969965",
+    "message": "can you make an app to when we scan enough times we get rewards.?",
+    "trueIntent": "feature_request",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "554337",
+    "message": "thought I’d try the new queso. That was a mistake. It was bland, grainy, and about the worst queso ever. The supermarket stuff in jars is better. Even movie theater nacho cheese is better.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2778187",
+    "message": "Well I was going to download the new app and order lunch w/ the free offer, but apparently Chipotle only wants iPhone users in their restaurants. #Loselose",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2082653",
+    "message": "my xfinity beta app won’t play 😒",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1653050",
+    "message": "not the first time i have complained about my issue i simply want what i am paying for",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "837335",
+    "message": "Been there done that. Now on a PR campaign and looking into direct tv for 2 homes. All talk no action. Done.",
+    "trueIntent": "billing_dispute",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2943946",
+    "message": "This doesn't feel like a personal response.. sliding into the DM's is personal. Also if I am on the phone with customer service.. why are you insisting you are better? #woke",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1638360",
+    "message": "Thanks, but It's back online. Got nervous when they said 4pm.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "712681",
+    "message": "Then you should make it available again. Good customer service. If Comcast really cares about what the customers want.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2022298",
+    "message": "I have a tech coming Tuesday- apparently it’s a familiar issue that could result in box swap out or some rewiring.",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "1971083",
+    "message": "so whens your cracker jack internet gonna come back up in Tampa",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2735747",
+    "message": "Everything is up and running after 4 power cycles. Pretty slow too. Thanks for trying",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  },
+  {
+    "id": "164508",
+    "message": "We have MSG and MSG+ in western NY and we are stuck with the Sabres on BOTH instead of the Knicks on one. This is beyond ridiculous.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "1660587",
+    "message": "@115955 Spectrum chat service at its finest! 5 days without internets and cable #spectrumoutage #garbage https://t.co/7LFfmthoo3",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2040765",
+    "message": "can you please fix my internet once and for all. I've had techs out here at least 5 times with no improvement.",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "806979",
+    "message": "why have all the signals failed since the supposed upgrade? Please reply.",
+    "trueIntent": "technical_issue",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2469158",
+    "message": "Thanks - seems a great way of making a process hard for people to get a refund.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "969069",
+    "message": "05:29 from Woking now 11 minutes late from Wimbledon and you still send us via East Putney.",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "escalate"
+  },
+  {
+    "id": "2096895",
+    "message": "@120586 Please can we have these replacement guards perm? This chap provided lots of info about travel options and contacted next station to ensure passengers encouraged not to board due to overcrowding. Proactive. Unusual!",
+    "trueIntent": "general_inquiry",
+    "expectedDecision": "auto"
+  }
+]

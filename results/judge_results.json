@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2847431",
+    "score": 5,
+    "rationale": "The reply is highly professional, friendly, and empathetic in tone. It avoids hallucination by asking for the user's specific device details to provide accurate guidance rather than making unverified assumptions about their setup. The actionability is excellent, offering a clear, direct next step (send a DM with device info) and including a link to facilitate this transition easily."
+  },
+  {
+    "id": "1265707",
+    "score": 4.7,
+    "rationale": "The reply is highly actionable, providing a direct link to DM and specifying exactly what information is needed (order/repair number and tracking details) to resolve the issue. It successfully avoids making any unverified promises (no hallucination), simply offering to check the status. The tone is professional and polite, though it could show slightly more empathy given the customer's level of frustration and mention of taking legal action against the courier."
+  },
+  {
+    "id": "1410531",
+    "score": 5,
+    "rationale": "The reply is excellent across all three criteria. The tone is empathetic and validates the customer's frustration ('That is definitely frustrating') while remaining professional. There is no hallucination or over-promising, as it only offers to look into the shipment. Lastly, it is highly actionable, giving the customer clear and specific next steps (send a DM with their order number and email address) to resolve the issue."
+  },
+  {
+    "id": "58172",
+    "score": 4.7,
+    "rationale": "The tone is excellent—warm, professional, and empathetic to the resolution. There is no hallucination or unverified promises. Actionability is rated slightly lower only because the issue is already resolved, so there are no immediate steps for the customer to take, though the reply correctly invites them to reach out again if they encounter further issues."
+  },
+  {
+    "id": "612999",
+    "score": 5,
+    "rationale": "The reply is excellent across all criteria. The tone is polite and professional. It contains no hallucinations or false promises, and it provides highly actionable next steps by asking for the iOS version and prompting the user to check for updates, which is the direct fix for this well-known iOS text bug."
+  }
+]
